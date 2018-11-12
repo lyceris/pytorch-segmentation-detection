@@ -4,4 +4,4 @@
 	branch = fully_conv_resnet
 [submodule "synchronized_batchnorm"]
 	path = synchronized_batchnorm
-	url = git@github.com:warmspringwinds/Synchronized-BatchNorm-PyTorch.git
+	url = https://github.com/warmspringwinds/Synchronized-BatchNorm-PyTorch.git
